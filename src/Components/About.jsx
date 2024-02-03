@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello there! I'm Rushabh Shah, a Junior DevOps Engineer hailing from Ahmedabad, Gujarat, India. Currently associated with Tridhya Tech Limited, I hold a Bachelor's degree in Information Technology from Parul Institute of Engineering and Technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -37,6 +37,14 @@ const skillsList = [
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
+  "DevOps",
+  "Azure",
+  "K8s",
+  "Jenkins",
+  "Azure DewvOps",
+  "Terraform",
+  "AWS",
+  "GCP",
 ];
 
 /**
