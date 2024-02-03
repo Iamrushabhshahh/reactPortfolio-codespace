@@ -123,3 +123,9 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+
+/* Add s amoth scroll behaviour */
+html {
+  scroll-behavior: smooth;
+}
