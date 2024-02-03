@@ -27,12 +27,12 @@ const siteProps = {
   name: "Rushabh Shah",
   title: "DevOps Engineer & Content Creator",
   email: "rushabhshah842@gmail.com",
-  gitHub: "https://github.com/iamrushabhshahh",
-  instagram: "https://www.instagram.com/iamrushabhshahh/",
-  linkedIn: "https://www.linkedin.com/in/iamrushabhshahh",
-  medium: "https://iamrushabhshahh.me/",
-  twitter: "https://twitter.com/iamrushabhshahh",
-  youTube: "https://www.youtube.com/@iamrushabhshahh?app=desktop",
+  gitHub: "iamrushabhshahh",
+  instagram: "iamrushabhshahh",
+  linkedIn: "iamrushabhshahh",
+  medium: "iamrushabhshahh",
+  twitter: "iamrushabhshahh",
+  youTube: "iamrushabhshahh",
 };
 
 const primaryColor = "#4E567E";
